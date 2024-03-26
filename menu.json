@@ -1,10 +1,14 @@
 [
     {
-        "etiqueta":"Funciones JavaScript",
-        "codigo":"func_js"
+        "etiqueta":"HTML",
+        "codigo":"cod_html"
     },
     {
-        "etiqueta":"Código JavaScript",
+        "etiqueta":"CSS",
+        "codigo":"cod_css"
+    },
+    {
+        "etiqueta":"JavaScript",
         "codigo":"cod_js"
     }
 
