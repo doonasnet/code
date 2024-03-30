@@ -10,6 +10,10 @@
     {
         "etiqueta":"JavaScript",
         "codigo":"cod_js"
+    },
+    {
+        "etiqueta":"PHP",
+        "codigo":"cod_php"
     }
 
 ]
