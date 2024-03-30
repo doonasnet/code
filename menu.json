@@ -14,6 +14,10 @@
     {
         "etiqueta":"PHP",
         "codigo":"cod_php"
+    },
+    {
+        "etiqueta":"VUE",
+        "codigo":"cod_vue"
     }
 
 ]
