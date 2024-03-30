@@ -12,6 +12,20 @@
             }
         ]
 
+    },
+    {
+        "categoria": "Fetch",
+        "fragmentos":[
+            {
+                "titulo":"JS 1",
+                "codigo":"js_1"
+            },
+            {
+                "titulo":"JS 2",
+                "codigo":"js_2"
+            }
+        ]
+
     }
     
 
