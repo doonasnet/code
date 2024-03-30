@@ -1,6 +1,7 @@
 [
     {
         "categoria": "Código Base",
+        "cod": "c_base",
         "fragmentos":[
             {
                 "titulo":"JS 1",
@@ -15,6 +16,7 @@
     },
     {
         "categoria": "Fetch",
+        "cod": "c_fetch",
         "fragmentos":[
             {
                 "titulo":"JS 1",
