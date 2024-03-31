@@ -29,8 +29,8 @@
 
     },
     {
-        "categoria": "Código Base",
-        "cod": "c_base",
+        "categoria": "Fetch",
+        "cod": "c_fetch",
         "gists":[
             {
                 "titulo_gist":"JS 1",
