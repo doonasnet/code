@@ -2,29 +2,57 @@
     {
         "categoria": "Código Base",
         "cod": "c_base",
-        "fragmentos":[
+        "gists":[
             {
-                "titulo":"JS 1",
-                "codigo":"js_1"
+                "titulo_gist":"JS 1",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "",
+                        "codigo":"js_1"
+                    }
+                ]
+                
             },
             {
-                "titulo":"JS 2",
-                "codigo":"js_2"
+                "titulo_gist":"JS 1",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "",
+                        "codigo":"js_1"
+                    }
+                ]
+                
             }
         ]
 
     },
     {
-        "categoria": "Fetch",
-        "cod": "c_fetch",
-        "fragmentos":[
+        "categoria": "Código Base",
+        "cod": "c_base",
+        "gists":[
             {
-                "titulo":"JS 1",
-                "codigo":"js_1"
+                "titulo_gist":"JS 1",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "",
+                        "codigo":"js_1"
+                    }
+                ]
+                
             },
             {
-                "titulo":"JS 2",
-                "codigo":"js_2"
+                "titulo_gist":"JS 1",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "",
+                        "codigo":"js_1"
+                    }
+                ]
+                
             }
         ]
 
