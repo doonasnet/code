@@ -5,14 +5,14 @@
         "gists":[
             {
                 "titulo_gist":"JS 1",
-                "descripcion_gist": "",
+                "descripcion_gist": "Descripcion 1",
                 "fragmentos":[
                     {
-                        "descripcion": "",
+                        "descripcion": "CSS",
                         "codigo":"js_1"
                     },
                     {
-                        "descripcion": "",
+                        "descripcion": "JS",
                         "codigo":"js_2"
                     }
                 ]
@@ -20,10 +20,10 @@
             },
             {
                 "titulo_gist":"JS 2",
-                "descripcion_gist": "",
+                "descripcion_gist": "Descripcion 2",
                 "fragmentos":[
                     {
-                        "descripcion": "",
+                        "descripcion": "Codigo general",
                         "codigo":"js_2"
                     }
                 ]
