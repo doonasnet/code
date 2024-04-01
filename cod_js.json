@@ -1,59 +1,14 @@
 [
     {
-        "categoria": "Código Base",
-        "cod": "c_base",
+        "categoria": "Window",
         "gists":[
             {
-                "titulo_gist":"JS 1",
-                "descripcion_gist": "Descripcion 1",
+                "titulo_gist":"Desplazamiento suave",
+                "descripcion_gist": "",
                 "fragmentos":[
-                    {
-                        "descripcion": "CSS",
-                        "codigo":"js_1"
-                    },
                     {
                         "descripcion": "JS",
-                        "codigo":"js_2"
-                    }
-                ]
-                
-            },
-            {
-                "titulo_gist":"JS 2",
-                "descripcion_gist": "Descripcion 2",
-                "fragmentos":[
-                    {
-                        "descripcion": "Codigo general",
-                        "codigo":"js_2"
-                    }
-                ]
-                
-            }
-        ]
-
-    },
-    {
-        "categoria": "Fetch",
-        "cod": "c_fetch",
-        "gists":[
-            {
-                "titulo_gist":"JS 1",
-                "descripcion_gist": "",
-                "fragmentos":[
-                    {
-                        "descripcion": "",
-                        "codigo":"js_1"
-                    }
-                ]
-                
-            },
-            {
-                "titulo_gist":"JS 2",
-                "descripcion_gist": "",
-                "fragmentos":[
-                    {
-                        "descripcion": "",
-                        "codigo":"js_2"
+                        "codigo":"desplazamiento_suave"
                     }
                 ]
                 
