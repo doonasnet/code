@@ -10,8 +10,33 @@
                         "descripcion": "JS",
                         "codigo":"desplazamiento_suave"
                     }
-                ]
-                
+                ]                
+            }
+        ]
+
+    },
+    {
+        "categoria": "Temporizadores",
+        "gists":[
+            {
+                "titulo_gist":"Set Timeout",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"settimeout"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"Set Interval",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"setinterval"
+                    }
+                ]                
             }
         ]
 
