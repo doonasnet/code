@@ -28,6 +28,16 @@
         "categoria": "Imágenes",
         "gists":[
             {
+                "titulo_gist":"Icon",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "HTML",
+                        "codigo":"icon"
+                    }
+                ]                
+            },
+            {
                 "titulo_gist":"Picture",
                 "descripcion_gist": "",
                 "fragmentos":[
@@ -35,8 +45,7 @@
                         "descripcion": "HTML",
                         "codigo":"picture"
                     }
-                ]
-                
+                ]                
             }
         ]
 
