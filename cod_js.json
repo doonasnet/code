@@ -81,7 +81,21 @@
                 ]                
             }
         ]
-
+    },
+    {
+        "categoria": "Texto",
+        "gists":[
+            {
+                "titulo_gist":"Capitalize",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"capitalize"
+                    }
+                ]                
+            }
+        ]
     }
     
 
