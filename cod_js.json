@@ -1,5 +1,31 @@
 [
     {
+        "categoria": "Fetch",
+        "gists":[
+            {
+                "titulo_gist":"Fetch get",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"fetch_get"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"Fetch post",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"fetch_post"
+                    }
+                ]                
+            }
+        ]
+
+    },
+    {
         "categoria": "Window",
         "gists":[
             {
@@ -35,6 +61,22 @@
                     {
                         "descripcion": "JS",
                         "codigo":"setinterval"
+                    }
+                ]                
+            }
+        ]
+
+    },
+    {
+        "categoria": "Math",
+        "gists":[
+            {
+                "titulo_gist":"Random",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"random"
                     }
                 ]                
             }
