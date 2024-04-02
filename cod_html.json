@@ -1,5 +1,30 @@
 [
     {
+        "categoria": "Head",
+        "gists":[
+            {
+                "titulo_gist":"Meta comunes",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "HTML",
+                        "codigo":"meta_comunes"
+                    }
+                ]                
+            },
+            {
+                "titulo_gist":"No Cache",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "HTML",
+                        "codigo":"no_cache"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
         "categoria": "Imágenes",
         "gists":[
             {
