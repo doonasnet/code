@@ -86,6 +86,16 @@
         "categoria": "Texto",
         "gists":[
             {
+                "titulo_gist":"Crea Slug",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"crea_slug"
+                    }
+                ]                
+            },
+            {
                 "titulo_gist":"Capitalize",
                 "descripcion_gist": "",
                 "fragmentos":[
