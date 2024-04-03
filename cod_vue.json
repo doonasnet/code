@@ -1,5 +1,20 @@
 [
     {
+        "categoria": "Componentes",
+        "gists":[
+            {
+                "titulo_gist":"Componente base",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "VUE",
+                        "codigo":"componente_base"
+                    }
+                ]                
+            }
+        ]
+    },
+    {
         "categoria": "Parámetros",
         "gists":[
             {
@@ -10,11 +25,9 @@
                         "descripcion": "VUE JS",
                         "codigo":"parametros_1"
                     }
-                ]
-                
+                ]                
             }
         ]
-
     }
     
 
