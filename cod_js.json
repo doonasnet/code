@@ -106,6 +106,21 @@
                 ]                
             }
         ]
+    },
+    {
+        "categoria": "Web Components",
+        "gists":[
+            {
+                "titulo_gist":"Componente base",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "JS",
+                        "codigo":"componente_base"
+                    }
+                ]                
+            }
+        ]
     }
     
 

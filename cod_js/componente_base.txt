@@ -1,0 +1,60 @@
+class DWS_btn extends HTMLElement{
+    constructor(){
+        super();
+        this.etiqueta;
+        this.attachShadow({ mode: "open" });
+    }
+    static get observedAttributes(){
+        return ['etiqueta'];
+    }    
+    attributeChangedCallback(nameAtr, oldValue, newValue){    
+        switch (nameAtr) {
+            case "etiqueta":
+                this.etiqueta = newValue;
+                break;   
+            }
+            
+    }
+    connectedCallback(){        
+        let sp = `
+        <style>
+        .dp-btn {
+            display: inline-flex;
+            width: auto;
+            font-weight: 400;
+            line-height: 1.5;    
+            /* text-align: center; */
+            text-decoration: none;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            user-select: none;
+            background-color: transparent;
+            padding: 0.375rem 0.75rem;
+            font-size: 1rem;
+            border-radius: 0px;
+            transition: all 0.15s ease-in-out;
+            border: none;
+        }
+        .dp-btn-1{
+            color: #fff;
+            background: #f00;
+        }
+        .dp-btn-1:hover{
+            background: #580707;
+        }
+        </style>
+        <div id="btn1" class="dp-btn dp-btn-1">
+          <div class="flecha">${this.etiqueta}</div>
+        </div>
+        `;        
+       this.shadowRoot.innerHTML = sp;
+       this.shadowRoot.querySelector('#btn1').addEventListener('click',(e)=>{
+            alert('ok');
+        });       
+    } 
+}
+window.customElements.define("dws-btn", DWS_btn);
+
