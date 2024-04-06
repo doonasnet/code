@@ -1,4 +1,18 @@
 [
-    
+    {
+        "categoria": "Iteradores",
+        "gists":[
+            {
+                "titulo_gist":"Foreach",
+                "descripcion_gist": "",
+                "fragmentos":[
+                    {
+                        "descripcion": "PHP",
+                        "codigo":"foreach"
+                    }
+                ]                
+            }
+        ]
+    }
 
 ]
