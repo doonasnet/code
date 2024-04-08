@@ -18,6 +18,13 @@
     {
         "etiqueta":"VUE",
         "codigo":"cod_vue"
+    },
+    {
+        "etiqueta":"DPA",
+        "codigo":"cod_dpa"
+    },
+    {
+        "etiqueta":"DPS",
+        "codigo":"cod_dps"
     }
-
 ]
